@@ -1,0 +1,11 @@
+2026-04-07 03:31:21,739 -INFO -Starting to organize directory: tests
+2026-04-07 03:31:21,742 -INFO -Moved: 'asd.pdf' -> 'tests\Documents\asd.pdf'
+2026-04-07 03:31:21,742 -INFO -Moved: 'qaz.jpeg' -> 'tests\Images\qaz.jpeg'
+2026-04-07 03:31:21,743 -INFO -Moved: 'qw.mp3' -> 'tests\Audio\qw.mp3'
+2026-04-07 04:16:52,142 -INFO -Starting to organize directory: tests
+2026-04-07 04:16:52,143 -WARNING ---- LIVE RUN MODE ENABLED: File system changes will be made. ---
+2026-04-07 04:16:52,166 -INFO -Moved: 'asd.pdf' -> 'tests\Documents\asd.pdf'
+2026-04-07 04:16:52,167 -INFO -Moved: 'qaz.jpeg' -> 'tests\Images\qaz.jpeg'
+2026-04-07 04:16:52,168 -INFO -Moved: 'qw.mp3' -> 'tests\Audio\qw.mp3'
+2026-04-07 04:24:47,352 -INFO -Starting to organize directory: tests
+2026-04-07 04:24:47,353 -INFO ---- DRY RUN MODE ENABLED: No files will be moved. ---
